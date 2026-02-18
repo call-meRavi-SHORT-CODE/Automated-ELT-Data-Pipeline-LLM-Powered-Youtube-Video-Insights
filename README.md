@@ -38,7 +38,7 @@ This project leverages the **YouTube API** and **Whisper transcriptions** to ext
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `handlers-airflow`: Airflow orchestration with Terraform, Ansible, Docker Compose.
 - `databricks`: Spark + Spark SQL transformation scripts.
